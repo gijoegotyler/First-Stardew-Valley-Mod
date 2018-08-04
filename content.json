@@ -1,0 +1,29 @@
+{
+  "Format": "1.4",
+  "Changes": [
+       {
+          "Action": "Load",
+          "Target": "Animals/Dinosaur",
+          "FromFile": "Assets/DinosaurSpring.xnb",
+          "When": {"Season": "spring"}
+       },
+       {
+         "Action": "Load",
+         "Target": "Animals/Dinosaur",
+         "FromFile": "Assets/DinosaurSummer.xnb",
+         "When": {"Season": "summer"}
+       },
+       {
+         "Action": "Load",
+         "Target": "Animals/Dinosaur",
+         "FromFile": "Assets/DinosaurFall.xnb",
+         "When": {"Season": "fall"}
+       },
+       {
+         "Action": "Load",
+         "Target": "Animals/Dinosaur",
+         "FromFile": "Assets/DinosaurWinter.xnb",
+         "When": {"Season": "winter"}
+       }
+     ]
+}
